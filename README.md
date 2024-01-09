@@ -154,5 +154,7 @@ def recognize(test_image):
 recognize('/content/image.jpg')
 
 
+FOR WEBCAB add the lines in webcam
+
 
 
